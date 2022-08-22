@@ -1,5 +1,6 @@
 # diagrams.net (draw.io) Icon Libraries 🖼️
 Icon libraries for diagrams.net (formerly draw.io) with support for color change
+
 * [Bootstrap Icons (v1.9.1)](https://github.com/twbs/icons) | [Download ⬇️](https://raw.githubusercontent.com/activivan/drawio-icons/main/libraries/bootstrap-icons/bootstrap.xml) | [Try it out ✒️](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2Factivivan%2Fdrawio-icons%2Fmain%2Flibraries%2Fbootstrap-icons%2Fbootstrap.xml) | 1812 icons
    * Fill | [Download ⬇️](https://raw.githubusercontent.com/activivan/drawio-icons/main/libraries/bootstrap-icons/bootstrap.xml) | [Try it out ✒️](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2Factivivan%2Fdrawio-icons%2Fmain%2Flibraries%2Fbootstrap-icons%2Fbootstrap-fill.xml) | 603 icons
    * Outline | [Download ⬇️](https://raw.githubusercontent.com/activivan/drawio-icons/main/libraries/bootstrap-icons/bootstrap.xml) | [Try it out ✒️](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2Factivivan%2Fdrawio-icons%2Fmain%2Flibraries%2Fbootstrap-icons%2Fbootstrap-outline.xml) | 1209 icons
@@ -12,4 +13,5 @@ Icon libraries for diagrams.net (formerly draw.io) with support for color change
 * [Remix Icon (v2.5.0)](https://github.com/Remix-Design/remixicon) | [Download ⬇️](https://raw.githubusercontent.com/activivan/drawio-icons/main/libraries/remix-icon/remix.xml) | [Try it out ✒️](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2Factivivan%2Fdrawio-icons%2Fmain%2Flibraries%2Fremix-icon%2Fremix.xml) | 2271 icons
    * Line | [Download ⬇️](https://raw.githubusercontent.com/activivan/drawio-icons/main/libraries/remix-icon/remix.xml) | [Try it out ✒️](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2Factivivan%2Fdrawio-icons%2Fmain%2Flibraries%2Fremix-icon%2Fremix-line.xml) | 1185 icons
    * Fill | [Download ⬇️](https://raw.githubusercontent.com/activivan/drawio-icons/main/libraries/remix-icon/remix.xml) | [Try it out ✒️](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2Factivivan%2Fdrawio-icons%2Fmain%2Flibraries%2Fremix-icon%2Fremix-fill.xml) | 1181 icons
+
 To change the color of an icon, select it, then switch to the Style tab in the Format window and edit the color under the .color property
